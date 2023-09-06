@@ -1,3 +1,36 @@
-h1 {
+h1,
+h2 {
     text-align: center;
+    background-color: black;
+    color: white;
+}
+
+
+
+img {
+    display: block;
+    margin: auto;
+    
+}
+
+ul {
+    color: white;
+    background-color: blue;
+}
+
+ol {
+    background-color: red;
+}
+
+h3 {
+    background-color: green;
+    color: white;
+}
+
+a:link {
+    color: white;
+}
+
+a:visited {
+    color: rgb(173, 173, 173);
 }
