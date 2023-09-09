@@ -11,18 +11,26 @@ h2 {
 .centerImage {
     display: block;
     margin: auto;
-    
 }
+
 
 ul {
     color: white;
     background-color: blue;
+    padding: 20px;
 }
 
+li {
+    margin: 10px;
+}
 
+.caption {
+    display:block;
+}
 
 ol {
     background-color: red;
+    padding: 20px;
 }
 
 h3 {
